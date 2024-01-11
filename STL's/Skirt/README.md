@@ -1,0 +1,1 @@
+These files were made and should fit on original frame without the original front and back metal pieces from Sunlu. I am NOT good with Fusion360/Sketchup and these were modified in PrusaSlicer. I highly suggest you measure these in slicer before you print them. I am looking for other skirt options and will update them here if and when I change/print them.
