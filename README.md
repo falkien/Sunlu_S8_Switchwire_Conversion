@@ -1,4 +1,4 @@
-# Sunlu_S8_Switchwire
+# Sunlu_S8_Switchwire_Conversion
 
 You will find here all the files needed to upgrade your Sunlu S8 to a Voron Switchwire. This is an on-going project, far from being finished so be patient. <br />
 <br />
