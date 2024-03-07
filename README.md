@@ -8,7 +8,7 @@ Rails purchased <br />
 <br />
 (4) 450mm - (2) rails for Y and (2) rails for Z <br />
 <br />
-(1) 355mm - rail for X <br />
+(1) 348mm - rail for X <- Custom cut to fit, could use a 350mm <br />
 <br />
 ![alt text](https://github.com/falkien/Sunlu_S8_Switchwire_Conversion/blob/main/Pics/PXL_20240111_071527569.jpg)
 ![alt text](https://github.com/falkien/Sunlu_S8_Switchwire_Conversion/blob/main/Pics/PXL_20231214_011142864.jpg)
