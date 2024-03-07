@@ -6,9 +6,9 @@ This will hopefully have everything that you need to do a conversion. It has tak
  <br />
 Rails purchased <br />
 <br />
-(4) 450mm - (2) rails for Y and (2) rails for Z <br />
+(4) 450mm - (2) MGN12H rails for Y and (2) MGN12H rails for Z <br />
 <br />
-(1) 348mm - rail for X <- Custom cut to fit, could use a 350mm <br />
+(1) 348mm - MGN12H rail for X <- Custom cut to fit, could use a 350mm <br />
 <br />
 ![alt text](https://github.com/falkien/Sunlu_S8_Switchwire_Conversion/blob/main/Pics/PXL_20240111_071527569.jpg)
 ![alt text](https://github.com/falkien/Sunlu_S8_Switchwire_Conversion/blob/main/Pics/PXL_20231214_011142864.jpg)
