@@ -1,1 +1,0 @@
-I created these in Sketchup, I am not good with CAD programs and these are VERY simple connections for the PSU. Please see the pictures to see how they connect.
