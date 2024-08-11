@@ -12,5 +12,4 @@ Rails purchased <br />
 <br />
 (1) 348mm - MGN12H rail for X <- Custom cut to fit, could use a 350mm <br />
 <br />
-![alt text](https://github.com/falkien/Sunlu_S8_Switchwire_Conversion/blob/main/Pics/PXL_20240111_071527569.jpg)
-![alt text](https://github.com/falkien/Sunlu_S8_Switchwire_Conversion/blob/main/Pics/PXL_20231214_011142864.jpg)
+![alt text](https://github.com/falkien/Sunlu_S8_Switchwire_Conversion/blob/main/Pics/Front%20Main.jpg)
