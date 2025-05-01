@@ -1,6 +1,6 @@
 # Sunlu_S8_Switchwire_Conversion
 
-***UPDATE 05/01/25*** I recently sold my Switchwire. I am going to leave this page up for anyone int eh future looking for info on a Sunlu S8 Switchwire conversion
+***UPDATE 05/01/25*** I recently sold my Switchwire. I am going to leave this page up for anyone in the future looking for info on a Sunlu S8 Switchwire conversion
 
 ***UPDATE 07/27/24*** Look for major changes in this entire section over the next couple of weeks. I am redoing the entire electronics and Skirt area. This includes all new skirts, upgrade to the SKR Mini E3 V3, and replacing the PVC electronic cover panels with printed pieces. 
 
